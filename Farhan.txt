@@ -1,1 +1,2 @@
 Ini adalah file untuk uts
+dan ini adalah kata kata update agar ada perubahan ketika di pull
